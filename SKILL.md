@@ -4,7 +4,8 @@ description: Transform any subject into a compelling human story by finding the 
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1
+  version: 1.0.3431
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - authentic-storytelling
 - storytelling
